@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Destructible
+  - Bille
   layers:
   - Default
   - TransparentFX
